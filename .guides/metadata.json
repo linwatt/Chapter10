@@ -310,6 +310,116 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "86f68c55-bab2-60e6-03e2-6d7a9543836e",
+   "title": "Updated MainActivity.java code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Updated-MainActivity-java-code-86f6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b2e47af6-6a29-3ee1-0cc6-f5a55f919cab",
+   "title": "Test Drive the App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-App-b2e4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ddd01cb5-727a-671f-3e90-77f7f503cc10",
+   "title": "The title and fragment are getting out of sync",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-title-and-fragment-are-getting-out-of-sync-ddd0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "56094143-c0f9-b44e-788c-5da363bfe083",
+   "title": "Dealing with configuration changes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Dealing-with-configuration-changes-5609.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6a50922f-88d7-4d6a-750f-7b32c2c086c5",
+   "title": "Reacting to changes on the back stack",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reacting-to-changes-on-the-back-stack-6a50.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "01aac15f-5db9-47ac-fd8b-ca538689e0a0",
+   "title": "Back stack changes continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Back-stack-changes-continued-01aa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "652667a3-315a-20a9-96a1-79630a6279af",
+   "title": "Adding tags to fragments",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-tags-to-fragments-6526.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "42293d84-be8e-3214-836f-3f7c4ec0ac33",
+   "title": "Find the fragment using its tag",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Find-the-fragment-using-its-tag-4229.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "50344277-0871-a03c-13d5-4ac202d262e1",
+   "title": "Test Drive the app",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-app-5034.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bafb2e20-4ba4-4374-8836-0cc2f87c4fc4",
+   "title": "Bullet Points",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bullet-Points-bafb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
