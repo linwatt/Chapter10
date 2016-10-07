@@ -1,0 +1,57 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1398934760",
+  "source": {
+   "name": "MainActivity Display Fragment",
+   "showName": false,
+   "instructions": "When the user clicks on an item in the navigation drawer list view, we need to display the correct fragment in the content_frame frame layout. See if you can finish the code below:",
+   "points": "1",
+   "showValues": true,
+   "text": "private void selectItem(int position) {\n        Fragment fragment;\n        switch(<<<position>>>) {\n        case 1:\n            fragment = <<<new>>> <<<PizzaFragment()>>>;\n            break;\n        case 2:\n            fragment = <<<new>>> <<<PastaFragment()>>>;\n            break;\n        case 3:\n            fragment = <<<new>>> <<<StoresFragment()>>>;\n            break;\n        default:\n            fragment = <<<new>>> <<<TopFragment()>>>;\n        }\n        FragmentTransaction ft = getFragmentManager().<<<beginTransaction()>>>;\n        ft.replace(R.id.content_frame, <<<fragment>>>);\n        ft.addToBackStack(null);\n        ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);\n        ft.<<<commit()>>>;",
+   "tokens": {
+    "blank": [
+     "position",
+     "new",
+     "PizzaFragment()",
+     "new",
+     "PastaFragment()",
+     "new",
+     "StoresFragment()",
+     "new",
+     "TopFragment()",
+     "beginTransaction()",
+     "fragment",
+     "commit()"
+    ],
+    "text": [
+     "private void selectItem(int position) {\n        Fragment fragment;\n        switch(",
+     0,
+     ") {\n        case 1:\n            fragment = ",
+     0,
+     " ",
+     0,
+     ";\n            break;\n        case 2:\n            fragment = ",
+     0,
+     " ",
+     0,
+     ";\n            break;\n        case 3:\n            fragment = ",
+     0,
+     " ",
+     0,
+     ";\n            break;\n        default:\n            fragment = ",
+     0,
+     " ",
+     0,
+     ";\n        }\n        FragmentTransaction ft = getFragmentManager().",
+     0,
+     ";\n        ft.replace(R.id.content_frame, ",
+     0,
+     ");\n        ft.addToBackStack(null);\n        ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);\n        ft.",
+     0,
+     ";"
+    ]
+   }
+  }
+ }
+]
