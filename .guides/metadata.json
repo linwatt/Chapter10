@@ -81,8 +81,24 @@
   {
    "id": "eaaec5ba-2545-34d0-5074-cae720546cb9",
    "title": "Create TopFragment",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "app/src/main/res/layout/fragment_top.xml",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/TopFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Create-TopFragment-eaae.md",
@@ -93,8 +109,21 @@
   {
    "id": "156f7268-feb1-dfae-c572-dd52f4ecaa8d",
    "title": "Create Pizza Fragment",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "app/src/main/java/com/hfad"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Create-Pizza-Fragment-156f.md",
    "chapter": false,
@@ -126,7 +155,18 @@
   {
    "id": "586b0af7-6225-d069-b5fc-53b34eb66986",
    "title": "DrawerLayout",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/layout/activity_main.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/DrawerLayout-586b.md",
@@ -148,7 +188,23 @@
   {
    "id": "69cc9f12-fb09-094f-3d76-750d48aa3b6c",
    "title": "Initialize the Drawer's List",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Initialize-the-Drawer-s-List-69cc.md",
@@ -159,7 +215,18 @@
   {
    "id": "0022d06e-ff2b-b839-de1c-bb8de9daf3a7",
    "title": "Use an OnItemClickListener to respond to clicks",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Use-an-OnItemClickListener-to-respond-to-clicks-0022.md",
@@ -170,8 +237,13 @@
   {
    "id": "e2701bb8-2478-841c-1226-851daeb594ba",
    "title": "onItemClick() Method",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/onItemClick---Method-e270.md",
@@ -182,7 +254,14 @@
   {
    "id": "fcf3dced-1984-9385-c428-8f28d0bd9dd5",
    "title": "The selectItem() method so far",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-selectItem---method-so-far-fcf3.md",
@@ -226,7 +305,13 @@
   {
    "id": "2aa06453-f3d6-1b5e-7cf3-71533144f9d4",
    "title": "Get the drawer to open and close",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Get-the-drawer-to-open-and-close-2aa0.md",
@@ -237,7 +322,14 @@
   {
    "id": "93ed6e45-cf5d-5916-537e-fdae44102980",
    "title": "Using an ActionBarDrawerToggle",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Using-an-ActionBarDrawerToggle-93ed.md",
@@ -248,7 +340,18 @@
   {
    "id": "deb9222d-7574-7cbc-6710-d9d5c0ed5737",
    "title": "ActionBarDrawerToggle Continued",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/ActionBarDrawerToggle-Continued-deb9.md",
@@ -325,7 +428,14 @@
   {
    "id": "b2e47af6-6a29-3ee1-0cc6-f5a55f919cab",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-b2e4.md",
@@ -336,7 +446,13 @@
   {
    "id": "ddd01cb5-727a-671f-3e90-77f7f503cc10",
    "title": "The title and fragment are getting out of sync",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-title-and-fragment-are-getting-out-of-sync-ddd0.md",
@@ -347,7 +463,14 @@
   {
    "id": "56094143-c0f9-b44e-788c-5da363bfe083",
    "title": "Dealing with configuration changes",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Dealing-with-configuration-changes-5609.md",
@@ -402,7 +525,14 @@
   {
    "id": "50344277-0871-a03c-13d5-4ac202d262e1",
    "title": "Test Drive the app",
-   "files": [],
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-app-5034.md",
@@ -413,7 +543,13 @@
   {
    "id": "bafb2e20-4ba4-4374-8836-0cc2f87c4fc4",
    "title": "Bullet Points",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Bullet-Points-bafb.md",
